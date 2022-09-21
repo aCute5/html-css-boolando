@@ -1,0 +1,25 @@
+*{
+  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;  
+  box-sizing: content-box;
+  margin: 0;
+  padding: 0;
+}
+nav{
+    background-color:rgb(234, 99, 42);
+    display: flex;
+    justify-content: center;
+
+    
+}
+nav img{
+        width: 100px;
+}
+.nav-container{
+                display: flex;
+                justify-content: space-between;
+                width: 1200px;
+                color: white;
+                font-size: 15px;
+                vertical-align: middle;
+}                
